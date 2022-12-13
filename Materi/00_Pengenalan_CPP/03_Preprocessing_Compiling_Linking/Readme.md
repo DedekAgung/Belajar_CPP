@@ -1,0 +1,3 @@
+13/12/2022
+# Preprocessing, Compiling, dan Linking
+Preprocessing adalah proses menggabungkan/memasukan file fungsi #include pada cpp file, lalu akan menjadi file yang berisi fungsi #include dan cpp. Lalu file tersebut akan dicompile dan menjadi sebuah file objek (.o)atau bisa disebut juga file dengam bahasa mesin. Lalu file objek tersebut akan digabungkan dengan file objek yang lain lalu menjadi executable file (.exe), proses ini disebut Linking

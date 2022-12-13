@@ -4,11 +4,11 @@ Repository ini berisi proses dan arcive pembelajaran bahasa pemrograman C++ saya
 Pembelajaran dimulai pada 12-12-2022. dengan roadmad sebagai berikut : 
 
 ## ROADMAP
-* - [ ] Pengenalan C++
+* - [x] Pengenalan C++
 
+    + Pendahuluan
     + Sejarah
     + Cara Kerja
-    + Program dan Compiler
     + Preprocessing, Compiling, Linking
     + Perbedaan C++ dan C.    
 &nbsp;   
