@@ -12,7 +12,7 @@ Pembelajaran dimulai pada 12-12-2022. dengan roadmad sebagai berikut :
     + Preprocessing, Compiling, Linking
     + Perbedaan C++ dan C.    
 &nbsp;   
-* - [ ] Program Hello World   
+* - [x] Program Hello World   
 &nbsp;
 * - [ ] Struktur Dasar
 
