@@ -14,7 +14,7 @@ Pembelajaran dimulai pada 12-12-2022. dengan roadmad sebagai berikut :
 &nbsp;   
 * - [x] Program Hello World   
 &nbsp;
-* - [ ] Struktur Dasar
+* - [x] Struktur Dasar
 
     - Struktur Dasar
     - Aturan Dasar Penulisan
